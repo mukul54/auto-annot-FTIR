@@ -15,7 +15,7 @@ This repository contains some of the early work for the automated annotations of
 
 - Another big issue with this task is the time required for image registration. Registration for one image takes from 15-20 minutes and looking at the image size the reason for this looks obvious. Still we can think of some other methods to reduce the time required for registration.
 
-## Authors
+## Author
  - [Mukul Ranjan](https://github.com/mukul54)
  
 ### Mentors
