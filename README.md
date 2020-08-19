@@ -18,6 +18,6 @@ This repository contains some of the early work for the automated annotations of
 ## Authors
  - [Mukul Ranjan](https://github.com/mukul54)
  
- * Mentors*
+### Mentors
  - [Luke Pfister](https://github.com/lukepfister)
  - [Sachi Mittal](https://www.linkedin.com/in/shachi-mittal-8379b645/)
